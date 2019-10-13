@@ -811,6 +811,28 @@ parent.treebg.enabled=visible'
 							</Page>
 							<Page
 								BackgroundColor='#FFFFFF'
+								Name='taanab__taanab'
+								OpacityRelativeMin='0.50'
+								PackLocation='nfn,nfn'
+								PackSize='a,a'
+								RStyleDefault='rs_default'
+								ScrollExtent='485,440'
+								Size='485,440'
+								Visible='false'
+							>
+								<Image
+									BackgroundColor='#FFFFFF'
+									Name='taanab__taanab'
+									PackSize='a,a'
+									ScrollExtent='485,440'
+									Size='485,440'
+									SourceRect='0,0,1024,1024'
+									SourceResource='ui_map_taanab'
+									VisualEditLock='true'
+								/>
+							</Page>
+							<Page
+								BackgroundColor='#FFFFFF'
 								Name='taanab__taanab_main'
 								OpacityRelativeMin='0.50'
 								PackLocation='nfn,nfn'
