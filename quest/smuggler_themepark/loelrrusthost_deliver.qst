@@ -29,30 +29,30 @@
                 <data value="0.0" name="LocationX(m)" />
                 <data value="0.0" name="LocationY(m)" />
                 <data value="0.0" name="LocationZ(m)" />
-                <data value="" name="interiorWaypointAppearance" />
+                <data value="tatooine" name="interiorWaypointAppearance" />
                 <data value="0" name="buildingCellName" />
-                <data value="Deathsticks" name="waypointName" />
+                <data value="Delivery Location" name="waypointName" />
                 <data value="0" name="createEntranceWaypoint" />
                 <data value="0.0" name="EntranceLocationX(m)" />
                 <data value="0.0" name="EntranceLocationY(m)" />
                 <data value="0.0" name="EntranceLocationZ(m)" />
                 <data value="" name="entranceWaypointName" />
                 <data value="4" name="Radius(m)" />
-                <data value="15000" name="Time To Complete" />
+                <data value="900" name="Time To Complete" />
             </task>
         </tasks>
         <list>
             <data value="90" name="Level" />
-            <data value="-1" name="Tier" />
+            <data value="0" name="Tier" />
             <data value="solo" name="Type" />
             <data value="Deathsticks" name="journalEntryTitle" />
             <data value="Loelrrusthost has asked you to deliver some deathsticks to a local client. Be careful, he warned you about the dangers of smuggling." name="journalEntryDescription" />
-            <data value="Heroic" name="category" />
+            <data value="Smuggler's Themepark" name="category" />
             <data value="true" name="journalVisible" />
             <data value="You have succesfully helped Loelrrusthost!" name="journalEntryCompletionSummary" />
             <data value="" name="prerequisiteQuests" />
             <data value="" name="exclusionQuests" />
-            <data value="false" name="allowRepeats" />
+            <data value="true" name="allowRepeats" />
             <data value="quest_combat" name="Experience Type" />
             <data value="0" name="Experience Amount" />
             <data value="Rebel" name="Faction Name" />
@@ -65,7 +65,7 @@
             <data value="" name="imperialLootName" />
             <data value="1" name="imperialLootAmount" />
             <data value="0" name="SfLootModifier" />
-            <data value="0" name="Bank Credits" />
+            <data value="1500" name="Bank Credits" />
             <data value="item_tcg_loot_reward_series9_jawa" name="lootName" />
             <data value="1" name="lootCount" />
             <data value="" name="lootName2" />
@@ -104,8 +104,8 @@
             <data value="1" name="CountArmor" />
             <data value="1" name="Quality" />
             <data value="" name="Reward Badge" />
-            <data value="Rebel" name="penaltyFactionName" />
-            <data value="0" name="penaltyFactionAmount" />
+            <data value="townsperson" name="penaltyFactionName" />
+            <data value="100" name="penaltyFactionAmount" />
             <data value="" name="target" />
             <data value="" name="parameter" />
             <data value="true" name="completeWhenTasksComplete" />
