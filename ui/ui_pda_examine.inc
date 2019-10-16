@@ -7,6 +7,7 @@
 			Size='617,430'
 			UserMovable='true'
 			UserResizable='true'
+			Visible='false'
 		>
 			<Data
 				buttonclose='bg.mmc.close'
@@ -141,8 +142,8 @@ parent.info.comp.pack=t'
 											Name='Unique'
 											OpacityRelativeMin='0.20'
 											PackSize='a,a'
-											ScrollExtent='45,16'
-											Size='45,16'
+											ScrollExtent='125,16'
+											Size='125,16'
 											TextAlignment='Right'
 											TextColor='#FF0000'
 										>@object_usability:unique</Text>
@@ -157,8 +158,8 @@ parent.info.comp.pack=t'
 											Name='noTrade'
 											OpacityRelativeMin='0.20'
 											PackSize='a,a'
-											ScrollExtent='102,16'
-											Size='102,16'
+											ScrollExtent='125,16'
+											Size='125,16'
 											TextColor='#FF0000'
 										>@object_usability:no_trade</Text>
 									</Composite>

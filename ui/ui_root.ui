@@ -14,7 +14,7 @@
 	Version='45'
 	VisualEditLock='true'
 >
-	<include>ui_voice.inc</include>z
+	<include>ui_voice.inc</include>
 	<include>ui_avatar_profession_template_select.inc</include>
 	<include>ui_avatar_simple.inc</include>
 	<include>ui_textstylemanager.inc</include>
