@@ -219,6 +219,7 @@
 				<Scrollbar
 					AutoVisibility='true'
 					Control='composite'
+					Enabled='false'
 					Location='354,5'
 					Name='Scroll'
 					PackLocation='fff,nfn'

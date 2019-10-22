@@ -491,6 +491,7 @@ parent.assembly.visible=false'
 						>@ui_craft:draft_ingredients</Text>
 						<Scrollbar
 							Control='content'
+							Enabled='false'
 							Location='303,23'
 							Name='scroll'
 							Opacity='0.90'

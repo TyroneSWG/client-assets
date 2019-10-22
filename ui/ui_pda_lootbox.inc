@@ -906,6 +906,7 @@
 				</Composite>
 				<Scrollbar
 					Control='comp'
+					Enabled='false'
 					Location='267,3'
 					Name='Scroll'
 					PackLocation='fff,nfn'

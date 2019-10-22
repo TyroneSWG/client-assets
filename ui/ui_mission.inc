@@ -941,6 +941,7 @@
 					</Composite>
 					<Scrollbar
 						Control='comp'
+						Enabled='false'
 						Location='186,8'
 						Name='Scroll'
 						Opacity='0.80'

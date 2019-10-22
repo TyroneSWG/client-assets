@@ -1935,6 +1935,7 @@ parent.slider.enabled=true'
 							</Composite>
 							<Scrollbar
 								Control='comp'
+								Enabled='false'
 								Location='498,26'
 								Name='scroll'
 								PackLocation='fff,fff'
@@ -3758,6 +3759,7 @@ parent.slider.enabled=true'
 							</Composite>
 							<Scrollbar
 								Control='comp'
+								Enabled='false'
 								Location='498,45'
 								Name='scroll'
 								PackLocation='fff,fff'
@@ -5128,6 +5130,7 @@ parent.combatSpamVerbose.enabled=true'
 							</Composite>
 							<Scrollbar
 								Control='comp'
+								Enabled='false'
 								Location='498,30'
 								Name='scroll'
 								PackLocation='fff,fff'
@@ -9255,6 +9258,7 @@ parent.combohours.enabled=true
 							</Composite>
 							<Scrollbar
 								Control='comp'
+								Enabled='false'
 								Location='498,26'
 								Name='scroll'
 								PackLocation='fff,fff'
@@ -10286,6 +10290,7 @@ parent.snapAngle.enabled=false'
 							>@ui_opt:page_controls</Text>
 							<Scrollbar
 								Control='comp'
+								Enabled='false'
 								Location='498,26'
 								Name='scroll'
 								PackLocation='fff,fff'
@@ -11054,6 +11059,7 @@ parent.snapAngle.enabled=false'
 							</Composite>
 							<Scrollbar
 								Control='comp'
+								Enabled='false'
 								Location='498,26'
 								Name='scroll'
 								PackLocation='fff,fff'

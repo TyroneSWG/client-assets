@@ -2268,6 +2268,7 @@ parent.summary.visible=false'
 					</Composite>
 					<Scrollbar
 						Control='attribs'
+						Enabled='false'
 						Location='391,38'
 						Name='Scroll'
 						Opacity='0.90'

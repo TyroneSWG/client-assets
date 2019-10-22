@@ -13573,6 +13573,7 @@ xxx attrib 8:    info here
 					</Composite>
 					<Scrollbar
 						Control='content'
+						Enabled='false'
 						Location='277,14'
 						Name='Scroll'
 						OpacityRelativeMin='0.40'

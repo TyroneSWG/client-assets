@@ -1988,6 +1988,7 @@ end
 								</Composite>
 								<Scrollbar
 									Control='details'
+									Enabled='false'
 									Location='448,3'
 									Name='Scroll'
 									PackLocation='fff,nfn'
@@ -2979,6 +2980,7 @@ end
 								</Composite>
 								<Scrollbar
 									Control='details'
+									Enabled='false'
 									Location='448,3'
 									Name='Scroll'
 									PackLocation='fff,nfn'

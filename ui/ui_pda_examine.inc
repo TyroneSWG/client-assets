@@ -326,6 +326,7 @@ xxx Description goes into this field with all the other text ok you can stop now
 						</Page>
 						<Scrollbar
 							Control='details.content'
+							Enabled='false'
 							Location='233,5'
 							Name='Scroll'
 							Opacity='0.90'
