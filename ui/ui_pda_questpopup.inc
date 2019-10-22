@@ -1,5 +1,5 @@
 		<Page
-			Location='28,426'
+			Location='144,534'
 			MinimumSize='356,135'
 			Name='Questpopup'
 			PackSize='p,p'

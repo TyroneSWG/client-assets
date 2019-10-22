@@ -1,7 +1,7 @@
 		<Page
 			BackgroundColor='#FFFFFF'
 			icons.visible='parent.details.visible'
-			Location='99,5'
+			Location='239,60'
 			MinimumSize='415,289'
 			Name='EditBiography'
 			RStyleDefault='rs_default'

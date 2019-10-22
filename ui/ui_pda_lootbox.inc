@@ -1,5 +1,5 @@
 		<Page
-			Location='224,159'
+			Location='259,214'
 			MaximumSize='300,16384'
 			MinimumSize='300,200'
 			Name='LootBox'
@@ -52,8 +52,8 @@
 					SpacingType='Constant'
 				>
 					<Text
-						CursorMark='8'
-						CursorPoint='8'
+						CursorMark='18'
+						CursorPoint='18'
 						Font='bold_13'
 						GetsInput='true'
 						LocalText='You have received:'
@@ -906,7 +906,6 @@
 				</Composite>
 				<Scrollbar
 					Control='comp'
-					Enabled='false'
 					Location='267,3'
 					Name='Scroll'
 					PackLocation='fff,nfn'

@@ -1,12 +1,11 @@
 		<Page
-			Location='639,554'
+			Location='742,416'
 			MinimumSize='1000,720'
 			Name='Tcg'
-			ScrollExtent='1016,720'
-			Size='1016,720'
+			ScrollExtent='1000,720'
+			Size='1000,720'
 			UserMovable='true'
 			UserResizable='true'
-			Visible='false'
 		>
 			<Data
 				buttonclose='bg.mmc.close'
@@ -19,23 +18,23 @@
 				Location='4,22'
 				Name='tcgControlParent'
 				PackSize='a,a'
-				ScrollExtent='1010,694'
+				ScrollExtent='994,694'
 				Selectable='true'
-				Size='1010,694'
+				Size='994,694'
 			>
 				<Image
 					Name='tcgImage'
 					PackSize='a,a'
-					ScrollExtent='1010,694'
-					Size='1010,694'
-					SourceRect='0,0,64,64'
-					SourceResource='tcg'
+					ScrollExtent='994,694'
+					Size='994,694'
+					SourceRect='0,0,1008,1003'
+					SourceResource='ui_map_rori'
 				/>
 				<Image
 					Name='tcgImageContext'
 					PackSize='a,a'
-					ScrollExtent='206,138'
-					Size='206,138'
+					ScrollExtent='190,138'
+					Size='190,138'
 					SourceRect='0,0,128,128'
 					SourceResource='tcgcontext'
 					Visible='false'
@@ -45,11 +44,11 @@
 				Name='bg'
 				PackLocation='nfn,nfn'
 				PackSize='a,a'
-				ScrollExtent='1016,720'
-				Size='1016,720'
+				ScrollExtent='1000,720'
+				Size='1000,720'
 			>
 				<Page
-					Location='1002,8'
+					Location='986,8'
 					Name='mmc'
 					PackLocation='fff,nfn'
 					PackSize='f,f'
@@ -76,8 +75,8 @@
 					Name='caption'
 					PackLocation='nfn,nfn'
 					PackSize='a,f'
-					ScrollExtent='866,19'
-					Size='866,19'
+					ScrollExtent='850,19'
+					Size='850,19'
 				>
 					<Text
 						Enabled='false'
@@ -90,8 +89,8 @@
 						OpacityRelativeMin='0.80'
 						PackSize='a,f'
 						PalText='titletext'
-						ScrollExtent='866,19'
-						Size='866,19'
+						ScrollExtent='850,19'
+						Size='850,19'
 						TextAlignmentVertical='Bottom'
 						TextCapital='true'
 						TextColor='#00354F'
@@ -106,9 +105,9 @@
 					PackSize='a,a'
 					PalBgTint='baselight'
 					RStyleDefault='/Styles.New.thin_in.rs_default'
-					ScrollExtent='1015,720'
+					ScrollExtent='999,720'
 					Selectable='true'
-					Size='1015,720'
+					Size='999,720'
 				>
 					<Page
 						BackgroundColor='#FFFFFF'
@@ -117,8 +116,8 @@
 						Name='lines'
 						PackSize='a,a'
 						RStyleDefault='/Styles.space.boxes.generic4.rs_default'
-						ScrollExtent='1015,720'
-						Size='1015,720'
+						ScrollExtent='999,720'
+						Size='999,720'
 					>
 						<Page
 							BackgroundColor='#FFFFFF'
@@ -128,8 +127,8 @@
 							OpacityRelativeMin='0.80'
 							PackLocation='nfn,fff'
 							PackSize='p,f'
-							ScrollExtent='790,22'
-							Size='790,22'
+							ScrollExtent='777,22'
+							Size='777,22'
 						>
 							<Page
 								BackgroundColor='#FFFFFF'
@@ -142,21 +141,21 @@
 								PackSize='a,a'
 								PalBgTint='line1'
 								RStyleDefault='/Styles.space.boxes.boxlinebottomLeft2.rs_default'
-								ScrollExtent='790,9'
-								Size='790,9'
+								ScrollExtent='777,9'
+								Size='777,9'
 							/>
 						</Page>
 						<Page
 							BackgroundColor='#FFFFFF'
 							GetsInput='false'
-							Location='285,698'
+							Location='281,698'
 							Name='outlineBR'
 							OpacityRelativeMin='0.80'
 							PackLocation='fff,fff'
 							PackSize='p,f'
 							RStyleDefault='/Styles.space.boxes.boxlineTopLeft.rs_default'
-							ScrollExtent='730,22'
-							Size='730,22'
+							ScrollExtent='718,22'
+							Size='718,22'
 						>
 							<Page
 								BackgroundColor='#FFFFFF'
@@ -169,20 +168,20 @@
 								PackSize='a,a'
 								PalBgTint='line1'
 								RStyleDefault='/Styles.space.boxes.boxlinebottomRight2.rs_default'
-								ScrollExtent='730,9'
-								Size='730,9'
+								ScrollExtent='718,9'
+								Size='718,9'
 							/>
 						</Page>
 						<Page
 							BackgroundColor='#FFFFFF'
 							GetsInput='false'
-							Location='285,0'
+							Location='281,0'
 							Name='outlineTR'
 							OpacityRelativeMin='0.80'
 							PackLocation='fff,nfn'
 							PackSize='p,f'
-							ScrollExtent='730,22'
-							Size='730,22'
+							ScrollExtent='718,22'
+							Size='718,22'
 						>
 							<Page
 								BackgroundColor='#FFFFFF'
@@ -194,8 +193,8 @@
 								PackSize='a,a'
 								PalBgTint='line1'
 								RStyleDefault='/Styles.space.boxes.boxlineTopRight2.rs_default'
-								ScrollExtent='730,9'
-								Size='730,9'
+								ScrollExtent='718,9'
+								Size='718,9'
 							/>
 						</Page>
 						<Page
@@ -206,8 +205,8 @@
 							PackLocation='nfn,nfn'
 							PackSize='p,f'
 							RStyleDefault='/Styles.space.boxes.boxlineTopLeft.rs_default'
-							ScrollExtent='790,22'
-							Size='790,22'
+							ScrollExtent='777,22'
+							Size='777,22'
 						>
 							<Page
 								BackgroundColor='#FFFFFF'
@@ -219,8 +218,8 @@
 								PackSize='a,a'
 								PalBgTint='line1'
 								RStyleDefault='/Styles.space.boxes.boxlineTopLeft2.rs_default'
-								ScrollExtent='790,9'
-								Size='790,9'
+								ScrollExtent='777,9'
+								Size='777,9'
 							/>
 						</Page>
 					</Page>
@@ -234,8 +233,8 @@
 						PackSize='a,f'
 						PalBgTint='titleBar'
 						RStyleDefault='main_TR.rs_default'
-						ScrollExtent='1016,29'
-						Size='1016,29'
+						ScrollExtent='1000,29'
+						Size='1000,29'
 					/>
 					<Page
 						BackgroundColor='#1FE6F5'
@@ -247,8 +246,8 @@
 						PackSize='a,f'
 						PalBgTint='bottomBar'
 						RStyleDefault='main_BR.rs_default'
-						ScrollExtent='1015,23'
-						Size='1015,23'
+						ScrollExtent='999,23'
+						Size='999,23'
 					/>
 					<Namespace
 						Name='main_TR'
@@ -321,9 +320,9 @@
 					PackSize='a,a'
 					PalBgTint='back1'
 					RStyleDefault='/Styles.New.thin_in.rs_default'
-					ScrollExtent='1016,712'
+					ScrollExtent='1000,712'
 					Selectable='true'
-					Size='1016,712'
+					Size='1000,712'
 				/>
 				<Page
 					BackgroundOpacity='1.00'
@@ -334,9 +333,9 @@
 					PackSize='a,a'
 					PalBgTint='back1'
 					RStyleDefault='/Styles.space.spaceglow.rs_default'
-					ScrollExtent='1016,720'
+					ScrollExtent='1000,720'
 					Selectable='true'
-					Size='1016,720'
+					Size='1000,720'
 				/>
 			</Page>
 		</Page>

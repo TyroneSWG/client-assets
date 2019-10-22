@@ -1,7 +1,7 @@
 		<Page
 			BackgroundOpacity='0.50'
 			BackgroundTint='#00D6FB'
-			Location='87,92'
+			Location='-46,618'
 			MaximumSize='16384,150'
 			MinimumSize='260,50'
 			Name='shipSelfInfo'

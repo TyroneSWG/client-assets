@@ -1755,7 +1755,7 @@
 				</Page>
 			</Page>
 			<Page
-				Location='1,0'
+				Location='0,3'
 				MinimumSize='400,400'
 				Name='articleSearch'
 				PackLocation='nfn,nfn'

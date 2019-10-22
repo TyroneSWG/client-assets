@@ -11,7 +11,7 @@
 			buttonCredits='menu.buttonCredits'
 			disconnectbutton='menu.disconnectbutton'
 			exitbutton='menu.exitButton'
-			locationsbutton='locationsbutton'
+			locationsbutton='menu.locationsbutton'
 			Name='CodeData'
 			optionsbutton='menu.optionsbutton'
 			resumebutton='menu.resumebutton'
@@ -120,6 +120,33 @@
 				ScrollExtent='380,257'
 				Size='380,257'
 			>
+				<Page
+					Location='4,22'
+					Name='tcgControlParent'
+					PackSize='a,a'
+					ScrollExtent='994,694'
+					Selectable='true'
+					Size='994,694'
+				>
+					<Image
+						Location='10,6'
+						Name='tcgImage'
+						PackSize='a,a'
+						ScrollExtent='116,94'
+						Size='116,94'
+						SourceRect='150,150,0,0'
+						SourceResource='ui_char_cust_pedestal_glow.dds'
+					/>
+					<Image
+						Name='tcgImageContext'
+						PackSize='a,a'
+						ScrollExtent='190,138'
+						Size='190,138'
+						SourceRect='0,0,128,128'
+						SourceResource='tcgcontext'
+						Visible='false'
+					/>
+				</Page>
 				<Page
 					Location='369,8'
 					Name='mmc'
